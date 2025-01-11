@@ -54,5 +54,4 @@ To run this project, ensure you have the following installed:
 - HR dataset (sample data included in the repository).
 
 
-   git clone https://github.com/yourusername/hr-analytics-dashboard.git
 
